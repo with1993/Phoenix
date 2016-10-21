@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\facepp_icon.png",
+        "source": "E:\\Android_Studio\\MyApplication\\faceDetected\\src\\main\\res\\drawable-hdpi\\facepp_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android_Studio\\MyApplication\\faceDetected\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "E:\\Android_Studio\\MyApplication\\faceDetected\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]

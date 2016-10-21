@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brother.jpg",
+        "source": "E:\\Android_Studio\\MyApplication\\faceDetected\\src\\main\\res\\drawable-hdpi\\brother.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\brother2.jpg",
+        "source": "E:\\Android_Studio\\MyApplication\\faceDetected\\src\\main\\res\\drawable-hdpi\\brother2.jpg"
+    }
+]

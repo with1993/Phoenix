@@ -1,0 +1,4 @@
+#Fri Oct 21 21:30:52 CST 2016
+base.0=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Oct 21 21:30:53 CST 2016
+2.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\brother.jpg
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\facepp_icon.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_action_search.png
+9.set=ANDROID_RESOURCE
+9.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\brother2.jpg
+1.set=ANDROID_RESOURCE
+7.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\Android_Studio\\MyApplication\\faceDetected\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
